@@ -1,0 +1,38 @@
+{
+  "light": {
+    "id": "theme_light",
+    "colors": {
+      "background": "#fcfcfc",
+      "backgroundSecondary": "#ededed",
+      "text": "#222",
+      "border": "#ededed",
+      "error": "#f44336",
+      "info": "#3a8eb5",
+      "required": "#f44336",
+      "inputBorder": "#d2d2d2",
+      "divider": "#d2d2d2",
+      "selectedBorder": "#222",
+      "submitBackground": "#383838",
+      "submitText": "#fcfcfc",
+      "submitBorder": "#222"
+    }
+  },
+  "dark": {
+    "id": "theme_dark",
+    "colors": {
+      "background": "#222",
+      "backgroundSecondary": "#383838",
+      "text": "#fcfcfc",
+      "border": "#383838",
+      "error": "#f44336",
+      "info": "#3a8eb5",
+      "required": "#f44336",
+      "inputBorder": "#454545",
+      "divider": "#454545",
+      "selectedBorder": "#fcfcfc",
+      "submitBackground": "#ededed",
+      "submitText": "#222",
+      "submitBorder": "#fcfcfc"
+    }
+  }
+}

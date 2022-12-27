@@ -1,0 +1,26 @@
+.form-wrapper {
+  flex: 1;
+  height: 100%;
+  overflow: auto;
+}
+.field-group {
+  padding: 10px 20px;
+  border-radius: 4px;
+  margin: 10px 20px;
+}
+.form-footer-wrapper {
+  margin: 0 20px 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.cancel-button, .submit-button {
+  font-size: smaller;
+  font-weight: 600;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.hide-if-empty:empty {
+  display: none;
+}

@@ -1,0 +1,13 @@
+.fallback-ui-wrapper {
+  padding: 20px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.fallback-ui-text {
+  text-align: center;
+  font-size: larger;
+}

@@ -1,0 +1,23 @@
+.radio-label {
+  font-size: smaller;
+  font-weight: 600;
+}
+.options-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: flex-start;
+  align-items: center;
+}
+.option {
+  padding: 4px 20px;
+  min-height: 30px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  text-align: center;
+  font-size: smaller;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}

@@ -1,0 +1,1 @@
+export const isLight = (theme) => theme.id === 'theme_light';
